@@ -1,4 +1,4 @@
-# Estimating Market Risk Measures
+# Estimating Market Risk Measures: Parametric Approach
 <p>1.2 Hisorical simulation
 <p>1.3a Parametric Var - Normally distributed P&L
 <p>1.3b Parametric Var- Normally distributed arithmetic return
